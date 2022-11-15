@@ -1,0 +1,28 @@
+package homework3;
+
+public class test_p26 {
+	public static void main(String[] args) {
+		
+		
+		
+		
+	}
+
+}
+
+class car26{
+	
+	private int num;
+	private double gas;
+	
+	public ccar() {
+		
+		num=0;
+		gas=0;
+		System.out.println("生產了車子");
+	}
+	
+	
+	
+	
+}
